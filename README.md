@@ -1,3 +1,7 @@
+## Preview
+
+https://github.com/user-attachments/assets/3e7e0cf9-1694-4e61-8da1-d63baaad3b9f
+
 # ii-lock remastered
 
 A Material-style login/lock theme for [Nody Greeter](https://github.com/Pandemonium1986/nody-greeter) (LightDM web greeter). Remastered from [ii-lock-greeter](https://github.com/Swastik36/ii-lock-greeter) with animated polish.
